@@ -1,8 +1,8 @@
-***Brownie point: This project won the Best Women’s Team award at IEEE Kalpana 6.0 – Hack for Humanity.***
+***Brownie point: This project won the Best Women’s Team award at IEEE Kalpana 6.0 - Hack for Humanity.***
 
-# Verifyy
+# DeepFake-Verify
 
-Verifyy is a real-time multimodal deepfake detection system designed to restore trust in digital media. It analyzes video, audio, and metadata to generate a calibrated trust score indicating whether content is likely real or manipulated.
+DeepFake-Verify is a real-time multimodal deepfake detection system designed to restore trust in digital media. It analyzes video, audio, and metadata to generate a calibrated trust score indicating whether content is likely real or manipulated.
 
 The system is built with a scalable backend architecture and a browser extension interface, making deepfake detection accessible and practical for real-world use.
 
@@ -20,7 +20,7 @@ The system is built with a scalable backend architecture and a browser extension
 
 ## Overview
 
-Verifyy performs detection across three independent layers:
+DeepFake-Verify performs detection across three independent layers:
 
 * **Video Analysis** – Detects facial manipulation artifacts.
 * **Audio Analysis** – Identifies synthetic or cloned voice patterns.
